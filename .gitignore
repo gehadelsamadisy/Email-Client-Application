@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Sensitive files
+*.env
+*.secret
+config.json
+
+# Test output
+*.coverage
+
+# Ignore your own files here
+7980-sp25-nw-L3.zip.pdf
+Email-Client-Application-main.zip
+Gehad Khaled 7980.docx
+Gehad Khaled 7980.pdf
+__pycache__/
