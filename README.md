@@ -26,10 +26,6 @@ This project implements a functional email client with the following capabilitie
 - `recieve.py` - mail.tm email receiving functionality
 - `requirements.txt` - Python dependencies
 
-### Alternative Implementation
-
-The `Email-Client-Application-main/` directory contains a modular version with separate files for send/receive/GUI functionality.
-
 ## Quick Start
 
 1. **Install dependencies:**
